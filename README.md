@@ -1,2 +1,2 @@
 # practice1
-Practice repository for DataDay practice web app
+Practice repository for practice web app
